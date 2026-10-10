@@ -1,10 +1,14 @@
 {
-  "name": "lan-drop",
+  "name": "lan-drop-ultra",
   "version": "1.0.0",
   "description": "High-speed, zero-cloud P2P Local Network File and Text Sharer (AirDrop alternative for any device on Wi-Fi)",
   "main": "server.js",
   "bin": {
     "lan-drop": "./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baadaldev/LAN-Drop-Ultra.git"
   },
   "scripts": {
     "start": "node server.js",
@@ -18,9 +22,10 @@
     "lan-share",
     "local-network",
     "websocket",
+    "synovara",
     "developer-tools"
   ],
-  "author": "Baadal <baadaldev>",
+  "author": "Baadal <baadaldev> (Synovara)",
   "license": "MIT",
   "dependencies": {
     "express": "^4.21.2",
