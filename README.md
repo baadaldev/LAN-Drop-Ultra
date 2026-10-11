@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📡 LAN-Drop Ultra
+# 📡 LAN-Drop Ultra By Rakib
 ### *Ultra-Fast, Zero-Cloud P2P Local Network File & Text Sharer*
 
 <p align="center">
